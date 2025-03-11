@@ -1,4 +1,3 @@
-# RemixIcons
+# Remix Icon SF Symbols
 
--   [RemixIcons](https://remixicon.com/)
--   [GitHub](https://github.com/RemixIcon/RemixIcon)
+This directory contains SF Symbols converted from [Remix Icon](https://remixicon.com/).

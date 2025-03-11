@@ -11,6 +11,7 @@ Open Symbols is a collection of [SF Symbols](https://developer.apple.com/sf-symb
 
 Currently available sets:
 
+-   [Lucide](lucide/README.md) - Beautiful & consistent icons made by the community from [Lucide](https://lucide.dev/)
 -   [RemixIcons](remix/README.md) - A collection of carefully designed icons from [RemixIcons](https://remixicon.com/)
 
 > 🚀 More icon sets will be added soon! Follow this repository to stay updated.
