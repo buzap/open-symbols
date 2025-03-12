@@ -2,6 +2,8 @@
 
 This directory contains SF Symbols converted from [Remix Icon](https://remixicon.com/) using [SymbolKit App](https://symbolkit.app).
 
+The `-line` suffix in the icon name is removed, and the `-fill` suffix is replaced with `.fill`, so that the symbols can be used with the SwiftUI `[symbolVariant(_:) modifier](https://developer.apple.com/documentation/swiftui/view/symbolvariant(_:))`.
+
 ## License
 
 The symbols are licensed under the [Apache License 2.0](./LICENSE), same as the original Remix Icon.
