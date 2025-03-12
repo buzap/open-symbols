@@ -2,23 +2,24 @@
 
 Open Symbols is a collection of [SF Symbols](https://developer.apple.com/sf-symbols/) converted from popular open source icon sets, making them seamlessly available for your Apple platform applications.
 
-## ✨ Features
-
--   High-quality SF Symbols converted from trusted open source icon sets
--   Easy integration with SwiftUI, UIKit, and AppKit
+Symbols are converted using [SymbolKit App](https://symbolkit.app) developed by me. The app is still under development, you can sign up to receive notifications when it's ready from it's website.
 
 ## 📦 Symbol Sets
 
 Currently available sets:
 
--   [Lucide](lucide/README.md) - Beautiful & consistent icons made by the community from [Lucide](https://lucide.dev/)
--   [RemixIcons](remix/README.md) - A collection of carefully designed icons from [RemixIcons](https://remixicon.com/)
+-   [Lucide](lucide/README.md) - Beautiful & consistent icons made by the community.
+-   [RemixIcons](remix/README.md) - A collection of carefully designed icons.
 
-> 🚀 More icon sets will be added soon! Follow this repository to stay updated.
+🚀 More icon sets will be added soon! Follow this repository to stay updated.
 
 ## 🛠️ Usage
 
 Download the symbols you want to use and add them to your Xcode assets catalog.
+
+To download symbols right now, you can use the 'Download raw file' button on the GitHub page, or clone the repository to your local machine and copy the files you want to use.
+
+In the future, you can search and download symbols from [https://opensymbols.dev](https://opensymbols.dev).
 
 ```swift
 // Example usage with SwiftUI
@@ -30,6 +31,10 @@ Image(systemName: "android")
 let imageView = UIImageView()
 imageView.image = UIImage(systemName: "android")?.withTintColor(.red)
 ```
+
+## Limitations
+
+Right now, the symbols have no weight variation. I'm working on adding weight variations to symbol sets.
 
 ## 📝 License
 
