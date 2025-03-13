@@ -25,7 +25,7 @@ In the future, you can search and download symbols from [https://opensymbols.dev
 
 ```swift
 // Example usage with SwiftUI
-Image(systemName: "android")
+Image("android")
     .font(.largeTitle)
     .foregroundColor(.blue)
 
