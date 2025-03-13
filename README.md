@@ -34,9 +34,13 @@ let imageView = UIImageView()
 imageView.image = UIImage(systemName: "android")?.withTintColor(.red)
 ```
 
-## Limitations
+## 🚧 Limitations
 
 Right now, the symbols have no weight variation. I'm working on adding weight variations to symbol sets.
+
+## 💜 Sponsor
+
+If you like this project, please consider sponsoring me. It motivates me to continue working on it! You can sponsor me on [Buy Me a Coffee](https://buymeacoffee.com/shawnchen).
 
 ## 📝 License
 
