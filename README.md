@@ -30,8 +30,7 @@ Image("android")
     .foregroundColor(.blue)
 
 // Example usage with UIKit
-let imageView = UIImageView()
-imageView.image = UIImage(systemName: "android")?.withTintColor(.red)
+UIImage(named: "android")
 ```
 
 ## 🚧 Limitations
