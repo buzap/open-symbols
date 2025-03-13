@@ -9,9 +9,16 @@ Symbols are converted using [SymbolKit App](https://symbolkit.app) developed by 
 Currently available sets:
 
 - [Heroicons](heroicons/README.md) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+<img width="1276" alt="image" src="https://github.com/user-attachments/assets/8d39f19c-2565-4fab-b6f8-c53b9f869129" />
+
 - [Font Awesome](font-awesome/README.md) - Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/6be51cce-1c52-4325-93b8-69a467e546fd" />
+
 - [Lucide](lucide/README.md) - Beautiful & consistent icons made by the community.
+<img width="527" alt="image" src="https://github.com/user-attachments/assets/6e0ca1c3-b7be-4595-a66b-93b322f743d8" />
+
 - [RemixIcons](remix/README.md) - A collection of carefully designed icons.
+<img width="1188" alt="image" src="https://github.com/user-attachments/assets/2f36af50-21fc-49e1-9c08-b6bf92026d19" />
 
 🚀 More icon sets will be added soon! Follow this repository to stay updated.
 
