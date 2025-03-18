@@ -1,6 +1,6 @@
 # Lucide SF Symbols
 
-This directory contains SF Symbols converted from [Lucide icons](https://lucide.dev/) using [SymbolKit App](https://symbolkit.app).
+This directory contains SF Symbols converted from [Lucide icons](https://lucide.dev/).
 
 ## License
 
@@ -8,6 +8,6 @@ The symbols are licensed under the [ISC License](./LICENSE), same as the origina
 
 ## Acknowledgements
 
--   [Lucide Website](https://lucide.dev/)
--   [Lucide GitHub](https://github.com/lucide-icons/lucide)
--   [SymbolKit App](https://symbolkit.app)
+- [Lucide Website](https://lucide.dev/)
+- [Lucide GitHub](https://github.com/lucide-icons/lucide)
+- Generated with [SymbolKit App](https://symbolkit.app/)
