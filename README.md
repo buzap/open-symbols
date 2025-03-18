@@ -8,6 +8,7 @@ Symbols are converted using [SymbolKit App](https://symbolkit.app) developed by 
 
 Currently available sets:
 
+- [Feather](feather/README.md) - Simply beautiful open source icons
 - [Heroicons](heroicons/README.md) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [Font Awesome](font-awesome/README.md) - Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 - [Lucide](lucide/README.md) - Beautiful & consistent icons made by the community.
