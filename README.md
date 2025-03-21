@@ -12,6 +12,7 @@ Currently available sets:
 - [Heroicons](heroicons/README.md) - Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 - [Font Awesome](font-awesome/README.md) - Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
 - [Lucide](lucide/README.md) - Beautiful & consistent icons made by the community.
+- [Material Design Symbols from Pictogrammers](pictogrammers-material-design/README.md) - A collection of Material Design icons from [Pictogrammers](https://pictogrammers.com/).
 - [RemixIcons](remix/README.md) - A collection of carefully designed icons.
 
 🚀 More icon sets will be added soon! Follow this repository to stay updated.
