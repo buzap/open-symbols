@@ -14,6 +14,7 @@ Currently available sets:
 - [Lucide](lucide/README.md) - Beautiful & consistent icons made by the community.
 - [Material Design Symbols from Pictogrammers](pictogrammers-material-design/README.md) - A collection of Material Design icons from [Pictogrammers](https://pictogrammers.com/).
 - [RemixIcons](remix/README.md) - A collection of carefully designed icons.
+- [Tabler](tabler/README.md) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 🚀 More icon sets will be added soon! Follow this repository to stay updated.
 
