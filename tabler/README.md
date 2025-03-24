@@ -4,7 +4,7 @@ This directory contains the symbols for the Tabler icon set.
 
 ## License
 
-The symbols are licensed under the [ISC License](./LICENSE), same as the original Lucide icons.
+The symbols are licensed under the [MIT License](./LICENSE), same as the original Tabler icons.
 
 ## Acknowledgements
 
